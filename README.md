@@ -7,3 +7,5 @@ Section: BSIT 2-1
 Subject Prof: Sir franco
 
 All projects will be named in a folder to further clear confusion when finding a specific folder or code whenver needed
+
+Still a newbie 
