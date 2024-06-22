@@ -9,3 +9,5 @@ Subject Prof: Sir franco
 All projects will be named in a folder to further clear confusion when finding a specific folder or code whenver needed
 
 Still a newbie 
+
+I have to reupload some files because for some reason it got lost when i made it public my repository.
